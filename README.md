@@ -32,3 +32,10 @@ node basic-routes.js
 * http://localhost:3000/api/user
 * http://localhost:3000/api/user?name=SENTHIL&age=22
 * http://localhost:3000/api/greet?name=SENTHIL
+
+## 📞 Need Help?
+If you have any questions, feel free to reach out or open an issue. 😊
+
+
+## 👨‍💻 Developed By
+This project is developed by [Senthil Murugan A K](https://github.com/Senthil-Murugan22). Feel free to connect with me!
